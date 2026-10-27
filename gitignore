@@ -1,0 +1,15 @@
+# Node / Strapi / React
+node_modules/
+.tmp/
+dist/
+build/
+.env
+.DS_Store
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.podspec
+.flutter-plugins
+.flutter-plugins-dependencies
